@@ -1,0 +1,21 @@
+table{
+    border-collapse: collapse;
+    border: 2 px solid rgb(115, 209, 96);
+    font-family: sans-serif; 
+    font-size: 0.8 rem;
+    letter-spacing: 1px;
+}
+caption{
+    caption-side:bottom;
+    padding:10px;
+    font-weight: bold;
+}
+thead,
+tfoot{
+    background-color: rgb(161, 16, 129);
+
+}
+th,
+td{
+    border: 1px solid rgb(40, 158, 142);;
+}
